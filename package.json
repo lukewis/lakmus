@@ -1,6 +1,6 @@
 {
   "name": "lakmus",
-  "version": "0.4.0",
+  "version": "0.3.0-bugfix9",
   "description": "Fluent validation.",
   "main": "index.js",
   "scripts": {
